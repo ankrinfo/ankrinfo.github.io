@@ -2,7 +2,7 @@
 layout: post
 title:  "Stkr por Ankr: Staking. Reimaginado."
 categories: [ Stkr, Staking, Ankr ]
-image: assets/images/stkr.jpg
+image: assets/images/stkr.png
 featured: true
 ---
 Apresentando Stkr: um protocolo descentralizado alimentado por <a href="https://www.ankr.com/">Ankr</a> que mudará o staking para sempre.
