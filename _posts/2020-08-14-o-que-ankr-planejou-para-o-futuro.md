@@ -2,7 +2,7 @@
 layout: post
 title:  "O que Ankr planejou para o futuro?"
 categories: [ FAQ ]
-image: assets/images/logo.png
+image: assets/images/faq.png
 featured: true
 ---
 Os casos de uso para Ankr são tremendamente variados, mas nos vemos em uma posição crítica para desempenhar um papel significativo na natureza descentralizada da Web 3.0.

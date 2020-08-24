@@ -2,7 +2,7 @@
 layout: post
 title:  "Qual é o modelo tokenomics de ankr?"
 categories: [ FAQ ]
-image: assets/images/logo.png
+image: assets/images/faq.png
 featured: true
 ---
 Para responder a isso, é melhor simplesmente dar uma amostra das "partes móveis" e como os tokens fluem entre elas:

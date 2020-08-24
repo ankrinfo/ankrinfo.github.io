@@ -2,7 +2,7 @@
 layout: post
 title:  "Como se tornar um provedor?"
 categories: [ FAQ ]
-image: assets/images/logo.png
+image: assets/images/faq.png
 featured: true
 ---
 O único critério de qualificação para o início do engajamento é que o provedor seja capaz de oferecer pelo menos 10 nós, cada um dos quais atende a esta especificação mínima:

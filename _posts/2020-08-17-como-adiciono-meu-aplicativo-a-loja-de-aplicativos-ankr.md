@@ -2,7 +2,7 @@
 layout: post
 title:  "Como adiciono meu aplicativo à loja de aplicativos ankr?"
 categories: [ FAQ ]
-image: assets/images/logo.png
+image: assets/images/faq.png
 featured: true
 ---
 Basta entrar em contato com a equipe em <a href="mailto:info@ankr.com">info@ankr.com</a> com as respostas para as seguintes perguntas:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Quais são as vantagens competitivas da Ankr?"
 categories: [ FAQ ]
-image: assets/images/logo.png
+image: assets/images/faq.png
 featured: true
 ---
 Para responder a isso, considere o líder do setor, o AWS da Amazon. Existem três desvantagens principais em usar AWS:
