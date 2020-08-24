@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Stkr por Ankr: Staking. Reimaginado."
+author: wallison
 categories: [ Stkr, Staking, Ankr ]
 image: assets/images/stkr.png
-featured: true
 ---
 Apresentando Stkr: um protocolo descentralizado alimentado por <a href="https://www.ankr.com/">Ankr</a> que mudará o staking para sempre.
 
@@ -31,10 +31,4 @@ Modelo de staking triplo
 
 Como o nome sugere, os titulares de ANKR terão acesso a três métodos diferentes para ganhar recompensas de aposta.
 
-
-
-
-
-
-
-
+![walking]({{ site.baseurl }}/assets/images/3.jpg)
