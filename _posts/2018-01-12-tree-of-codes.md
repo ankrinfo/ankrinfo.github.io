@@ -1,18 +1,32 @@
 ---
 layout: post
-title:  "Tree of Codes"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/2.jpg
+title:  "Stkr por Ankr: Staking. Reimaginado."
+author: wallison
+categories: [ Stkr, Staking, Ankr ]
+image: assets/images/stkr.png
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+Apresentando Stkr: um protocolo descentralizado alimentado por <a href="https://www.ankr.com/">Ankr</a> que mudará o staking para sempre.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Na Ankr, nossa missão desde o início tem sido remover barreiras e dar aos usuários normais a mesma capacidade que grandes jogadores têm de oferecer suporte a seus protocolos de blockchain favoritos. Todos os dias as pessoas podem implantar nós de blockchain na <a href="https://app.ankr.com/">plataforma Ankr</a>, mas com o Ethereum 2.0 prestes a ser lançado, estamos adicionando um novo serviço à linha de produtos Ankr: <a href="https://assets.ankr.com/files/stkr_whitepaper.pdf">Stkr</a>.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Stkr é um protocolo e plataforma descentralizada que combina piquetagem e DeFi, implementando elementos de piquetagem tradicional com piquetagem não custodial, Micropols e governança descentralizada.
 
+O protocolo trará benefícios para o staking, da mesma forma que a Ankr fez para o node hosting: remove barreiras de entrada, simplifica a participação e abre o staking para todos, sem depender de nenhuma autoridade centralizada.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+> Stkr NÃO é um token novo. O protocolo Stkr é construído pela Ankr e depende 100% do token ANKR.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Embora o suporte de implantação de um clique da Ankr para dezenas de nós e validadores diferentes remova as barreiras técnicas, a Stkr agora remove as barreiras financeiras também, adicionando uma infinidade de novos utilitários para o token ANKR no processo.
 
+Nossa implantação Stkr inicial concentra-se no <a href="https://ethereum.org/en/">Ethereum 2.0</a>, pois esperamos uma demanda muito alta para a execução de nós do Ethereum 2.0 e a implantação de tokens ETH. Estamos projetando milhares de novos nós para ficar online, já que ter mais do que os 32 ETH necessários para um Validador não gera recompensas adicionais.
+
+Além de aprimorar o staking Ethereum 2.0, os desenvolvedores também podem usar o protocolo Stkr para integrar o staking descentralizado em outros blockchains de PoS, como <a href="https://polkadot.network/">Polkadot</a>, <a href="https://www.binance.org/en/smartChain">Binance Smart Chain</a>, <a href="https://eos.io/">EOS</a> e <a href="https://cosmos.network/">Cosmos</a>.
+
+No núcleo da Stkr, existem dois desenvolvimentos inovadores que deixam os stakers (e suas carteiras) felizes:
+* Um modelo de piquetagem tripla para piquetar tokens ANKR
+* Micropools para que todos participem da implantação do Ethereum 2.0
+
+Vamos decifrar o que isso significa exatamente e como ajudam o staker.
+
+Modelo de staking triplo
+
+Como o nome sugere, os titulares de ANKR terão acesso a três métodos diferentes para ganhar recompensas de aposta.
