@@ -1,8 +1,8 @@
 # Site
 name: "Ankr Community"
-title: "Traduções, Artigos e Tutoriais"
-description: "A infraestrutura de nuvem Blockchain para Web 3.0"
-meta_description: "A infraestrutura de nuvem Blockchain para Web 3.0"
+title: "A infraestrutura de nuvem Blockchain para Web 3.0"
+description: "A Ankr torna a infraestrutura para implantação de qualquer nó blockchain fácil, acessível e instantaneamente distribuída em todo o mundo"
+meta_description: "Computação instantânea para aplicativos em qualquer lugar."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
@@ -21,6 +21,16 @@ authors:
     email: wallisonalvesdeoliveira@gmail.com
     web: https://wallisonalves.com
     twitter: https://twitter.com/wall_is_on
+    description: "Admin"
+
+authors:
+  yan:
+    name: Yan
+    display_name: Yan
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: yangm97@gmail.com
+    web: https://malha.global/
+    twitter: https://twitter.com/yangm97
     description: "Admin"
 
 # Plugins
