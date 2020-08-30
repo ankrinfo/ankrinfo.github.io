@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stkr por Ankr: Staking. Reimaginado."
+title:  "Stkr por Ankr: Staking Reimaginado!"
 author: wallison
 categories: [ Stkr, Staking, Ankr ]
 image: assets/images/stkr.png
