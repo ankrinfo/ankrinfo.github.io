@@ -5,7 +5,7 @@ description: "Uma economia de compartilhamento de computação distribuída, fá
 meta_description: "Computação instantânea para aplicativos em qualquer lugar!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 6
+paginate: 12
 baseurl: '/'
 email: 'admin@ankr.info'
 google_analytics: ''
