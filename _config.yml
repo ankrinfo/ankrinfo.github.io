@@ -5,7 +5,7 @@ description: "Uma economia de compartilhamento de computação distribuída, fá
 meta_description: "Computação instantânea para aplicativos em qualquer lugar!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 12
+paginate: 6
 baseurl: '/'
 email: 'admin@ankr.info'
 google_analytics: ''
@@ -31,6 +31,15 @@ authors:
     web: https://malha.global/
     twitter: https://twitter.com/yangm97
     description: "Admin"
+
+  yan:
+    name: Carlos Albert
+    display_name: Carlos Alberto
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: xyz@gmail.com
+    web: https://xyz.com/
+    twitter: https://twitter.com/xyz
+    description: "Moderator"
 
 # Plugins
 plugins:
